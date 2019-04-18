@@ -9,7 +9,7 @@
 
 ### 1.a. View the _notebooks_ statically :memo:
 - Either directly in GitHub: [see the list of notebooks](https://github.com/igorterroso/Python_Pandas_Tutorial_Brownbag/search?l=jupyter-notebook);
-- Or on [nbviewer.jupiter.org](https://nbviewer.jupiter.org/): [list of notebooks](https://nbviewer.jupyter.org/github/igorterroso/Python_Pandas_Tutorial_Brownbag/master).
+- Or on [nbviewer.jupiter.org](https://nbviewer.jupiter.org/): [list of notebooks](https://nbviewer.jupyter.org/github/igorterroso/Python_Pandas_Tutorial_Brownbag).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igorterroso/Jupyterplay/master)
 
