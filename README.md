@@ -14,7 +14,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igorterroso/Jupyterplay/master)
 
 ### 1.b. Play with the _notebooks_ dynamically (on MyBinder) :boom:
-[![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/igorterroso/Python_Pandas_Tutorial_Brownbag/master/Pandas_Python_Tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/igorterroso/Python_Pandas_Tutorial_Brownbag/master)
 
 Anyone can use the [mybinder.org](http://mybinder.org/) website (by [clicking](http://mybinder.org/v2/gh/igorterroso/Python_Pandas_Tutorial_Brownbag/master?filepath=notebooks) on the icon above) to run the notebook in her/his web-browser.
 You can then play with it as long as you like, for instance by modifying the values or experimenting with the code.
