@@ -11,6 +11,8 @@
 - Either directly in GitHub: [see the list of notebooks](https://github.com/igorterroso/Pandas_Tutorial_Brownbag/search?l=jupyter-notebook);
 - Or on [nbviewer.jupiter.org](https://nbviewer.jupiter.org/): [list of notebooks](https://nbviewer.jupyter.org/github/igorterroso/Pandas_Tutorial_Brownbag/).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igorterroso/Jupyterplay/master)
+
 https://github.com/igorterroso/Pandas_Tutorial_Brownbag/blob/master/Pandas_Python_Tutorial.ipynb
 
 
