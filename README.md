@@ -21,7 +21,15 @@ You can then play with it as long as you like, for instance by modifying the val
 
 - [How do I install Python?](https://realpython.com/installing-python/)
 - [How do I install Pandas?](https://pandas.pydata.org/pandas-docs/stable/install.html)
-- [How can I edit ipynb files? - Using Jupyter](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook?utm_source=adwords_ppc&utm_campaignid=898687156&utm_adgroupid=48947256715&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=332602034352&utm_targetid=aud-517318241987:dsa-473406581035&utm_loc_interest_ms=&utm_loc_physical_ms=1011763&gclid=Cj0KCQjwwODlBRDuARIsAMy_28XrjcQbHXrhBhsRkZsC6OmIW4s7wEwKlc5R6gkMGZd9MA8Nt82D2UEaAjxgEALw_wcB)
+- [How can I edit ipynb files? - Using Jupyter](https://jupyter.readthedocs.io/en/latest/install.html)
 - [How can I prepare a presentation like the Brownbag with live code?](https://www.blog.pythonlibrary.org/2018/09/25/creating-presentations-with-jupyter-notebook/)
+
+
+## 3. Cool video tutorials!! :tv:
+
+- [Daniel Chen: Cleaning and Tidying Data in Pandas | PyData DC 2018](https://youtu.be/iYie42M1ZyU)
+- [Webinar - Data Reshaping with Pandas in Python](https://youtu.be/HX7gCUw6FK0)
+- [RISE quick mini tutorial](https://youtu.be/sXyFa_r1nxA)
+
 
 ----
