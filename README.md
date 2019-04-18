@@ -1,9 +1,7 @@
 # Pandas_Tutorial_Brownbag
 
-# [Short intro to Pandas and Python to extract TestRail data via REST API in Jupyter](https://www.jupyter.org/) :notebook: by [igorterroso @ GitHub](https://naereen.github.io/)
+# [Short intro to Pandas and Python to extract TestRail data via REST API in Jupyter](https://www.jupyter.org/) :notebook: by [igorterroso @ GitHub](https://igorterroso.github.io/)
 
-> [The wonderful Jupyter tools](http://jupyter.org/)  is awesome to write interactive and nicely presented :snake: Python simulations!
->
 > [![made-with-jupyter](https://img.shields.io/badge/Made%20with-Jupyter-1f425f.svg)](http://jupyter.org/) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 ----
