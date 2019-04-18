@@ -1,8 +1,0 @@
-status_id,label
-1,Passed
-2,Blocked
-3,Untested
-4,Retest
-5,Failed
-6,Not Applicable
-7,Not Delivered
