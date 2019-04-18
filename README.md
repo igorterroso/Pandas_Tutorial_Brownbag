@@ -7,35 +7,10 @@
 > [![made-with-jupyter](https://img.shields.io/badge/Made%20with-Jupyter-1f425f.svg)](http://jupyter.org/) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 ----
-
-## 1. List of experiments presented with notebooks
-### MAB problems
-- [Easily creating various Multi-Armed Bandit problems](Easily_creating_MAB_problems.ipynb), explains the interface of the [`Environment.MAB`](../Environment/MAB.py) module.
-
-### Single-Player simulations
-- [A simple example of Single-Player simulation](Example_of_a_small_Single-Player_Simulation.ipynb), comparing [`UCB1`](https://smpybandits.github.io/docs/Policies.UCBalpha.html) (for two values of $\alpha$, 1 and 1/2), [`Thompson Sampling`](https://smpybandits.github.io/docs/Policies.Thompson.html), [`BayesUCB`](https://smpybandits.github.io/docs/Policies.BayesUCB.html) and [`kl-UCB`](https://smpybandits.github.io/docs/Policies.klUCB.html).
-- [*Do we even need UCB?*](Do_we_even_need_UCB.ipynb) demonstrates the need for an algorithm smarter than the naive [`EmpiricalMeans`](https://smpybandits.github.io/docs/Policies.EmpiricalMeans.html).
-- [Lai-Robbins lower-bound for doubling-tricks algorithms with full restart](Lai_Robbins_Lower_Bound_for_Doubling_Trick_with_Restarting_Algorithms.ipynb).
-
-### Active research on Single-Player MAB
-- [Exploring different doubling tricks for different kinds of regret bounds](Exploring_different_doubling_tricks_for_different_kinds_of_regret_bounds.ipynb).
-- [Experiments of statistical tests for piecewise stationary bandits](Experiments_of_statistical_tests_for_piecewise_stationary_bandit.ipynb)
-- [Demonstrations of Single-Player Simulations for Non-Stationary Bandits](Demonstrations_of_Single-Player_Simulations_for_Non-Stationary-Bandits.ipynb).
-
-### Multi-Player simulations
-- [A simple example of Multi-Player simulation with 4 Centralized Algorithms](Example_of_a_small_Multi-Player_Simulation__with_Centralized_Algorithms.ipynb), comparing [`CentralizedMultiplePlay`](https://smpybandits.github.io/docs/PoliciesMultiPlayers.CentralizedMultiplePlay.html) and [`CentralizedIMP`](https://smpybandits.github.io/docs/PoliciesMultiPlayers.CentralizedIMP.html) with [`UCB`](https://smpybandits.github.io/docs/Policies.UCB.html) and [`Thompson Sampling`](https://smpybandits.github.io/docs/Policies.Thompson.html).
-- [A simple example of Multi-Player simulation with 2 Decentralized Algorithms](Example_of_a_small_Multi-Player_Simulation__with_rhoRand_and_Selfish_Algorithms.ipynb), comparing [`rhoRand`](https://smpybandits.github.io/docs/PoliciesMultiPlayers.rhoRand.html) and [`Selfish`](https://smpybandits.github.io/docs/PoliciesMultiPlayers.Selfish.html) (for the "collision avoidance" part) combined with [`UCB`](https://smpybandits.github.io/docs/Policies.UCB.html) and [`Thompson Sampling`](https://smpybandits.github.io/docs/Policies.Thompson.html) for learning the arms. Spoiler: `Selfish` beats `rhoRand`!
-
-## (Old) Experiments
-- [Can we use a (non-online) Unsupervised Learning algorithm for (online) Bandit problem ?](Unsupervised_Learning_for_Bandit_problem.ipynb)
-- [Can we use a computationally expensive Black-Box Bayesian optimization algorithm for (online) Bandit problem ?](BlackBox_Bayesian_Optimization_for_Bandit_problems.ipynb)
-
-----
-
-## 2. Question: *How to read these documents*?
+## 1. Question: *How to read these documents*?
 
 ### 2.a. View the _notebooks_ statically :memo:
-- Either directly in GitHub: [see the list of notebooks](https://github.com/SMPyBandits/SMPyBandits/search?l=jupyter-notebook);
+- Either directly in GitHub: [see the list of notebooks](https://github.com/igorterroso/Pandas_Tutorial_Brownbag/master/search?l=jupyter-notebook);
 - Or on [nbviewer.jupiter.org](https://nbviewer.jupiter.org/): [list of notebooks](https://nbviewer.jupyter.org/github/SMPyBandits/SMPyBandits/).
 
 ### 2.b. Play with the _notebooks_ dynamically (on MyBinder) :boom:
