@@ -13,9 +13,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igorterroso/Jupyterplay/master)
 
-https://github.com/igorterroso/Pandas_Tutorial_Brownbag/blob/master/Pandas_Python_Tutorial.ipynb
-
-
 ### 1.b. Play with the _notebooks_ dynamically (on MyBinder) :boom:
 [![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/igorterroso/Pandas_Tutorial_Brownbag/master/Pandas_Python_Tutorial.ipynb)
 
