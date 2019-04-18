@@ -11,8 +11,11 @@
 - Either directly in GitHub: [see the list of notebooks](https://github.com/igorterroso/Pandas_Tutorial_Brownbag/search?l=jupyter-notebook);
 - Or on [nbviewer.jupiter.org](https://nbviewer.jupiter.org/): [list of notebooks](https://nbviewer.jupyter.org/github/igorterroso/Pandas_Tutorial_Brownbag/).
 
+https://github.com/igorterroso/Pandas_Tutorial_Brownbag/blob/master/Pandas_Python_Tutorial.ipynb
+
+
 ### 1.b. Play with the _notebooks_ dynamically (on MyBinder) :boom:
-[![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/igorterroso/Pandas_Tutorial_Brownbag/master?filepath=notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/igorterroso/Pandas_Tutorial_Brownbag/master/Pandas_Python_Tutorial.ipynb)
 
 Anyone can use the [mybinder.org](http://mybinder.org/) website (by [clicking](http://mybinder.org/v2/gh/igorterroso/Pandas_Tutorial_Brownbag/master?filepath=notebooks) on the icon above) to run the notebook in her/his web-browser.
 You can then play with it as long as you like, for instance by modifying the values or experimenting with the code.
