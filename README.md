@@ -11,8 +11,6 @@
 - Either directly in GitHub: [see the list of notebooks](https://github.com/igorterroso/Python_Pandas_Tutorial_Brownbag/search?l=jupyter-notebook);
 - Or on [nbviewer.jupiter.org](https://nbviewer.jupiter.org/): [list of notebooks](https://nbviewer.jupyter.org/github/igorterroso/Python_Pandas_Tutorial_Brownbag).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igorterroso/Jupyterplay/master)
-
 ### 1.b. Play with the _notebooks_ dynamically (on MyBinder) :boom:
 [![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/igorterroso/Python_Pandas_Tutorial_Brownbag/master)
 
